@@ -16,3 +16,4 @@ Git is free software distributed under the GPL.
 
 //---------ADD3
 Git has a mutable index called stage.+++testDiff
+Git tracks changes.
