@@ -5,3 +5,8 @@ the usage of Git.
 Delibrate practice involves setting specific goals, obtaining imdiate
 feedback and concentrating as much on techique as on outcome.
 Let's go, learning it.
+
+//----------ADD
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+
