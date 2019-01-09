@@ -1,0 +1,7 @@
+Git is a version control system.
+Git is free software.
+This repository is created by Zhangdl at 2019/1/9, aiming at learning
+the usage of Git.
+Delibrate practice involves setting specific goals, obtaining imdiate
+feedback and concentrating as much on techique as on outcome.
+Let's go, learning it.
